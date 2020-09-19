@@ -1,11 +1,7 @@
 # My Favorite Food
 
 - Tacos :heart:
-
-- Pizza :spark:
-
+- Pizza :sparkles:
 - Hamburguesa :tada:
-
 - Pasta :smile:
-
 - Sushi :+1:
