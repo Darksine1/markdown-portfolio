@@ -1,5 +1,4 @@
 # My Favorite Food
-
 - Tacos :heart:
 - Pizza :sparkles:
 - Hamburguesa :tada:
