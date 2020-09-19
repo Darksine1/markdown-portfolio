@@ -1,14 +1,7 @@
----
-layout: default
----
+# Lista de Comida Favorita
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+- Tacos
+- Pizza
+- Hamburguesa
+- Pasta
+- Sushi
