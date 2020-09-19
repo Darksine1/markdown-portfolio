@@ -1,21 +1,11 @@
----
-layout: default
----
+# My Favorite Food
 
-{% include 01-name.md %}
+- Tacos :heart:
 
-<br>
+- Pizza :spark:
 
-{% include 02-image.md %}
+- Hamburguesa :tada:
 
-<br>
+- Pasta :smile:
 
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+- Sushi :+1:
